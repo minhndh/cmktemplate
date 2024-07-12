@@ -220,5 +220,11 @@
         2
       ]
     }
-  ]
+  ],
+  "common": {
+    "leftHeight": 0,
+    "rightHeight": 0,
+    "playerSpeed": 0,
+    "obstacleSpeed": 0
+  }
 }
