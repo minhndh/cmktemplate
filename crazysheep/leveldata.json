@@ -3,7 +3,7 @@
     {
       "id": 1,
       "leftHeight": 0,
-      "rightHeight": 0,
+      "rightHeight": -5,
       "playerSpeed": 3.5,
       "obstaclesSpeed": [
         2
