@@ -2,7 +2,7 @@
   "map": [
     {
       "name": "Level 1",
-      "backgroundHeight": 0,
+      "backgroundHeight": 50,
       "levels": [
         13
       ]
