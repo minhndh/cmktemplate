@@ -2,42 +2,49 @@
   "map": [
     {
       "name": "Level 1",
+      "backgroundHeight": 0,
       "levels": [
         13
       ]
     },
     {
       "name": "Level 2",
+      "backgroundHeight": 0,
       "levels": [
         16
       ]
     },
     {
       "name": "Level 3",
+      "backgroundHeight": 0,
       "levels": [
         1
       ]
     },
     {
       "name": "Level 4",
+      "backgroundHeight": 0,
       "levels": [
         3
       ]
     },
     {
       "name": "Level 5",
+      "backgroundHeight": 0,
       "levels": [
         2
       ]
     },
     {
       "name": "Level 6",
+      "backgroundHeight": 0,
       "levels": [
         4
       ]
     },
     {
       "name": "Level 7",
+      "backgroundHeight": 0,
       "levels": [
         13,
         3
@@ -45,6 +52,7 @@
     },
     {
       "name": "Level 8",
+      "backgroundHeight": 0,
       "levels": [
         1,
         2
@@ -52,6 +60,7 @@
     },
     {
       "name": "Level 9",
+      "backgroundHeight": 0,
       "levels": [
         1,
         4
@@ -59,6 +68,7 @@
     },
     {
       "name": "Level 10",
+      "backgroundHeight": 0,
       "levels": [
         16,
         1
@@ -66,36 +76,43 @@
     },
     {
       "name": "Level 11",
+      "backgroundHeight": 0,
       "levels": [
         12
       ]
     },
     {
       "name": "Level 12",
+      "backgroundHeight": 0,
       "levels": [
-        22, 23
+        22,
+        23
       ]
     },
     {
       "name": "Level 13",
+      "backgroundHeight": 0,
       "levels": [
         6
       ]
     },
     {
       "name": "Level 14",
+      "backgroundHeight": 0,
       "levels": [
         11
       ]
     },
     {
       "name": "Level 15",
+      "backgroundHeight": 0,
       "levels": [
         8
       ]
     },
     {
       "name": "Level 16",
+      "backgroundHeight": 0,
       "levels": [
         12,
         8
@@ -103,6 +120,7 @@
     },
     {
       "name": "Level 17",
+      "backgroundHeight": 0,
       "levels": [
         6,
         11
@@ -110,6 +128,7 @@
     },
     {
       "name": "Level 18",
+      "backgroundHeight": 0,
       "levels": [
         12,
         22,
@@ -118,6 +137,7 @@
     },
     {
       "name": "Level 19",
+      "backgroundHeight": 0,
       "levels": [
         6,
         8
@@ -125,6 +145,7 @@
     },
     {
       "name": "Level 20",
+      "backgroundHeight": 0,
       "levels": [
         22,
         23,
@@ -133,36 +154,42 @@
     },
     {
       "name": "Level 21",
+      "backgroundHeight": 0,
       "levels": [
         5
       ]
     },
     {
       "name": "Level 22",
+      "backgroundHeight": 0,
       "levels": [
         9
       ]
     },
     {
       "name": "Level 23",
+      "backgroundHeight": 0,
       "levels": [
         10
       ]
     },
     {
       "name": "Level 24",
+      "backgroundHeight": 0,
       "levels": [
         15
       ]
     },
     {
       "name": "Level 25",
+      "backgroundHeight": 0,
       "levels": [
         14
       ]
     },
     {
       "name": "Level 26",
+      "backgroundHeight": 0,
       "levels": [
         5,
         10
@@ -170,6 +197,7 @@
     },
     {
       "name": "Level 27",
+      "backgroundHeight": 0,
       "levels": [
         9,
         15
@@ -177,6 +205,7 @@
     },
     {
       "name": "Level 28",
+      "backgroundHeight": 0,
       "levels": [
         10,
         14
@@ -184,6 +213,7 @@
     },
     {
       "name": "Level 29",
+      "backgroundHeight": 0,
       "levels": [
         9,
         15
@@ -191,6 +221,7 @@
     },
     {
       "name": "Level 30",
+      "backgroundHeight": 0,
       "levels": [
         5,
         14
@@ -198,30 +229,35 @@
     },
     {
       "name": "Level 31",
+      "backgroundHeight": 0,
       "levels": [
         17
       ]
     },
     {
       "name": "Level 32",
+      "backgroundHeight": 0,
       "levels": [
         20
       ]
     },
     {
       "name": "Level 33",
+      "backgroundHeight": 0,
       "levels": [
         19
       ]
     },
     {
       "name": "Level 34",
+      "backgroundHeight": 0,
       "levels": [
         21
       ]
     },
     {
       "name": "Level 35",
+      "backgroundHeight": 0,
       "levels": [
         17,
         20
@@ -229,6 +265,7 @@
     },
     {
       "name": "Level 36",
+      "backgroundHeight": 0,
       "levels": [
         20,
         19
@@ -236,6 +273,7 @@
     },
     {
       "name": "Level 37",
+      "backgroundHeight": 0,
       "levels": [
         20,
         21
@@ -243,6 +281,7 @@
     },
     {
       "name": "Level 38",
+      "backgroundHeight": 0,
       "levels": [
         17,
         19
@@ -250,6 +289,7 @@
     },
     {
       "name": "Level 39",
+      "backgroundHeight": 0,
       "levels": [
         14,
         17,
@@ -258,6 +298,7 @@
     },
     {
       "name": "Level 40",
+      "backgroundHeight": 0,
       "levels": [
         14,
         20,
