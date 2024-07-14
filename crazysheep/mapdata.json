@@ -16,7 +16,7 @@
     },
     {
       "name": "Level 3",
-      "backgroundHeight": 1,
+      "backgroundHeight": 0.8,
       "levels": [
         1
       ]
@@ -30,14 +30,14 @@
     },
     {
       "name": "Level 5",
-      "backgroundHeight": 0.8,
+      "backgroundHeight": 0.7,
       "levels": [
         2
       ]
     },
     {
       "name": "Level 6",
-      "backgroundHeight": 0,
+      "backgroundHeight": 0.8,
       "levels": [
         4
       ]
@@ -52,7 +52,7 @@
     },
     {
       "name": "Level 8",
-      "backgroundHeight": 0,
+      "backgroundHeight": 0.9,
       "levels": [
         1,
         2
@@ -76,7 +76,7 @@
     },
     {
       "name": "Level 11",
-      "backgroundHeight": 0,
+      "backgroundHeight": 0.7,
       "levels": [
         12
       ]
