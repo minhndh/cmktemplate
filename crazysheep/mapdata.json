@@ -16,14 +16,14 @@
     },
     {
       "name": "Level 3",
-      "backgroundHeight": 3,
+      "backgroundHeight": 1,
       "levels": [
         1
       ]
     },
     {
       "name": "Level 4",
-      "backgroundHeight": 0,
+      "backgroundHeight": 2,
       "levels": [
         3
       ]
