@@ -6,7 +6,7 @@
       "rightHeight": 0,
       "playerSpeed": 3.5,
       "obstaclesSpeed": [
-        6
+        -9999
       ]
     },
     {
@@ -15,7 +15,7 @@
       "rightHeight": -2,
       "playerSpeed": 3.5,
       "obstaclesSpeed": [
-        6
+        -9999
       ]
     },
     {
@@ -24,7 +24,7 @@
       "rightHeight": 0,
       "playerSpeed": 3.5,
       "obstaclesSpeed": [
-        6
+        -9999
       ]
     },
     {
@@ -33,7 +33,7 @@
       "rightHeight": 0,
       "playerSpeed": 3.5,
       "obstaclesSpeed": [
-        6
+        -9999
       ]
     },
     {
@@ -225,6 +225,6 @@
     "leftHeight": 0,
     "rightHeight": 0,
     "playerSpeed": 0,
-    "obstacleSpeed": [6,7,8,9,6]
+    "obstacleSpeed": [3,3,3,3,3]
   }
 }
