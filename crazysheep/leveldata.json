@@ -225,6 +225,6 @@
     "leftHeight": 0,
     "rightHeight": 0,
     "playerSpeed": 0,
-    "obstacleSpeed": [3,4,5,3,3]
+    "obstacleSpeed": [2,2,2,2,2]
   }
 }
