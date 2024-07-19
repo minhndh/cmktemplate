@@ -20,8 +20,8 @@
     },
     {
       "id": 3,
-      "leftHeight": -2,
-      "rightHeight": -2,
+      "leftHeight": -0.5,
+      "rightHeight": -0.5,
       "playerSpeed": 3.5,
       "obstaclesSpeed": [
         -9999
