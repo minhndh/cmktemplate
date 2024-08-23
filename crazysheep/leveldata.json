@@ -22,7 +22,7 @@
       "id": 3,
       "leftHeight": -0.1,
       "rightHeight": -0.1,
-      "playerSpeed": 3.5,
+      "playerSpeed": 8,
       "obstaclesSpeed": [
         -9999
       ]
