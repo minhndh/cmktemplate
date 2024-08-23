@@ -122,7 +122,7 @@
       "obstaclesSpeed": [
         4,
         4,
-        5
+        3
       ]
     },
     {
@@ -153,11 +153,11 @@
       "rightHeight": -0.65,
       "playerSpeed": -9999,
       "obstaclesSpeed": [
-        4,
-        4,
-        4,
-        5,
-        5
+        2,
+        2,
+        2,
+        3,
+        3
       ]
     },
     {
@@ -224,7 +224,7 @@
   "common": {
     "leftHeight": 0,
     "rightHeight": 0,
-    "playerSpeed": 2.5,
+    "playerSpeed": 2,
     "obstacleSpeed": [1,1,1,1,1]
   }
 }
