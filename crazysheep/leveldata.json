@@ -6,7 +6,7 @@
       "rightHeight": 0,
       "playerSpeed": -9999,
       "obstaclesSpeed": [
-        5
+        4
       ]
     },
     {
@@ -122,7 +122,7 @@
       "obstaclesSpeed": [
         4,
         4,
-        3
+        5
       ]
     },
     {
