@@ -1,20 +1,6 @@
 {
   "map": [
     {
-      "name": "Level 14",
-      "backgroundHeight": 0.7,
-      "levels": [
-        11
-      ]
-    },
-    {
-      "name": "Level 15",
-      "backgroundHeight": 0.7,
-      "levels": [
-        8
-      ]
-    },
-    {
       "name": "Level 1",
       "backgroundHeight": 0,
       "levels": [
