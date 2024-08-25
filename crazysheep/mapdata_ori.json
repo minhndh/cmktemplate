@@ -70,8 +70,8 @@
       "name": "Level 10",
       "backgroundHeight": 0.7,
       "levels": [
-        16,
-        1
+        13,
+        16
       ]
     },
     {
@@ -260,14 +260,14 @@
       "backgroundHeight": 0.7,
       "levels": [
         17,
-        20
+        9
       ]
     },
     {
       "name": "Level 36",
       "backgroundHeight": 0.7,
       "levels": [
-        20,
+        9,
         19
       ]
     },
@@ -275,7 +275,7 @@
       "name": "Level 37",
       "backgroundHeight": 0.7,
       "levels": [
-        20,
+        9,
         21
       ]
     },
@@ -301,7 +301,7 @@
       "backgroundHeight": 0.7,
       "levels": [
         14,
-        20,
+        9,
         19
       ]
     }
