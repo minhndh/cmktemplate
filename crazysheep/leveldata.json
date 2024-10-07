@@ -15,7 +15,7 @@
       "rightHeight": 0,
       "playerSpeed": -9999,
       "obstaclesSpeed": [
-        6
+        -9999
       ]
     },
     {
@@ -24,7 +24,7 @@
       "rightHeight": -0.1,
       "playerSpeed": -9999,
       "obstaclesSpeed": [
-        6
+        -9999
       ]
     },
     {
@@ -33,7 +33,7 @@
       "rightHeight": 0,
       "playerSpeed": -9999,
       "obstaclesSpeed": [
-        6
+        -9999
       ]
     },
     {
@@ -52,8 +52,8 @@
       "rightHeight": 0,
       "playerSpeed": 3.5,
       "obstaclesSpeed": [
-        7,
-        8
+        -9999,
+        -9999
       ]
     },
     {
@@ -71,7 +71,7 @@
       "rightHeight": 0,
       "playerSpeed": 3.5,
       "obstaclesSpeed": [
-        6
+        -9999
       ]
     },
     {
@@ -100,8 +100,8 @@
       "rightHeight": 0,
       "playerSpeed": 3.5,
       "obstaclesSpeed": [
-        7,
-        7
+        -9999,
+        -9999
       ]
     },
     {
@@ -131,8 +131,8 @@
       "rightHeight": 0,
       "playerSpeed": 4,
       "obstaclesSpeed": [
-        6,
-        5
+        -9999,
+        -9999
       ]
     },
     {
@@ -166,8 +166,8 @@
       "rightHeight": 0,
       "playerSpeed": 4,
       "obstaclesSpeed": [
-        6,
-        5
+        -9999,
+        -9999
       ]
     },
     {
@@ -217,7 +217,7 @@
       "rightHeight": 0,
       "playerSpeed": 3.5,
       "obstaclesSpeed": [
-        6
+        -9999
       ]
     }
   ],
