@@ -226,10 +226,10 @@
     "rightHeight": 0,
     "playerSpeed": 3,
     "obstacleSpeed": [2,2,2,2,2],
-    "shop1" : "d16FVCanTu+WreOrE6kl+Q==",
-    "game_skip" : "iFMDOiBYWBqsQEPYmPE0zA==",
-    "game_delay": "q2ZkvF6cF3tRbM37U6vVhg==",
-    "game_delay_val": "0DUjVF1wOLv2HM8Jpac8cQ==",
-    "start_game": "FUJtnCed7+3t9/77Z1cKWg=="
+    "sh1" : "tBYHGYSVaPG4tZXaBaY2bQ==",
+    "gsk" : "aqINtUTFUo+zZSWHVzwm0Q==",
+    "gsl": "1xTKl7l02mAAgJAKvAXCtA==",
+    "gslv": "0DUjVF1wOLv2HM8Jpac8cQ==",
+    "sta": "EAeJnV6teOAzGktGOA6Bqw=="
   }
 }
