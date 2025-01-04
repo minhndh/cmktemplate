@@ -219,6 +219,191 @@
       "obstaclesSpeed": [
         -9999
       ]
+    },
+    {
+      "id": 40,
+      "leftHeight": 0,
+      "rightHeight": 0,
+      "playerSpeed": -9999,
+      "obstaclesSpeed": [
+        -9999,
+        -9999,
+        -9999,
+        -9999
+      ]
+    },
+    {
+      "id": 41,
+      "leftHeight": 0,
+      "rightHeight": 0,
+      "playerSpeed": -9999,
+      "obstaclesSpeed": [
+        -9999
+      ]
+    },
+    {
+      "id": 42,
+      "leftHeight": 0,
+      "rightHeight": 0,
+      "playerSpeed": -9999,
+      "obstaclesSpeed": [
+        -9999,
+        -9999
+      ]
+    },
+    {
+      "id": 43,
+      "leftHeight": 0,
+      "rightHeight": 0,
+      "playerSpeed": -9999,
+      "obstaclesSpeed": [
+        -9999
+      ]
+    },
+    {
+      "id": 44,
+      "leftHeight": 0,
+      "rightHeight": 0,
+      "playerSpeed": -9999,
+      "obstaclesSpeed": [
+        -9999,
+        -9999
+      ]
+    },
+    {
+      "id": 45,
+      "leftHeight": 0,
+      "rightHeight": 0,
+      "playerSpeed": -9999,
+      "obstaclesSpeed": [
+        -9999,
+        -9999
+      ]
+    },
+    {
+      "id": 50,
+      "leftHeight": 0,
+      "rightHeight": 0,
+      "playerSpeed": -9999,
+      "obstaclesSpeed": [
+        -9999,
+        -9999
+      ]
+    },
+    {
+      "id": 51,
+      "leftHeight": 0,
+      "rightHeight": 0,
+      "playerSpeed": -9999,
+      "obstaclesSpeed": [
+        -9999,
+        -9999
+      ]
+    },
+    {
+      "id": 52,
+      "leftHeight": 0,
+      "rightHeight": 0,
+      "playerSpeed": -9999,
+      "obstaclesSpeed": [
+        -9999,
+        -9999,
+        -9999,
+        -9999,
+        -9999,
+        -9999
+      ]
+    },
+    {
+      "id": 53,
+      "leftHeight": 0,
+      "rightHeight": 0,
+      "playerSpeed": -9999,
+      "obstaclesSpeed": [
+        -9999,
+        -9999,
+        -9999,
+        -9999
+      ]
+    },
+    {
+      "id": 54,
+      "leftHeight": 0,
+      "rightHeight": 0,
+      "playerSpeed": -9999,
+      "obstaclesSpeed": [
+        -9999,
+        -9999,
+        -9999,
+        -9999,
+        -9999,
+        -9999
+      ]
+    },
+    {
+      "id": 60,
+      "leftHeight": 0,
+      "rightHeight": 0,
+      "playerSpeed": -9999,
+      "obstaclesSpeed": [
+        -9999,
+        -9999
+      ]
+    },
+    {
+      "id": 61,
+      "leftHeight": 0,
+      "rightHeight": 0,
+      "playerSpeed": -9999,
+      "obstaclesSpeed": [
+        -9999,
+        -9999
+      ]
+    },
+    {
+      "id": 62,
+      "leftHeight": 0,
+      "rightHeight": 0,
+      "playerSpeed": -9999,
+      "obstaclesSpeed": [
+        -9999,
+        -9999
+      ]
+    },
+    {
+      "id": 63,
+      "leftHeight": 0,
+      "rightHeight": 0,
+      "playerSpeed": -9999,
+      "obstaclesSpeed": [
+        -9999,
+        -9999,
+        -9999,
+        -9999,
+        -9999,
+        -9999
+      ]
+    },
+    {
+      "id": 64,
+      "leftHeight": 0,
+      "rightHeight": 0,
+      "playerSpeed": -9999,
+      "obstaclesSpeed": [
+        -9999,
+        -9999
+      ]
+    },
+    {
+      "id": 65,
+      "leftHeight": 0,
+      "rightHeight": 0,
+      "playerSpeed": -9999,
+      "obstaclesSpeed": [
+        -9999,
+        -9999,
+        -9999
+      ]
     }
   ],
   "common": {
