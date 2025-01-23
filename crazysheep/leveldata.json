@@ -341,6 +341,16 @@
       ]
     },
     {
+      "id": 55,
+      "leftHeight": 0,
+      "rightHeight": 0,
+      "playerSpeed": -9999,
+      "obstaclesSpeed": [
+        -9999,
+        -9999
+      ]
+    },
+    {
       "id": 60,
       "leftHeight": 0,
       "rightHeight": 0,
@@ -404,18 +414,93 @@
         -9999,
         -9999
       ]
+    },
+    {
+      "id": 70,
+      "leftHeight": 0,
+      "rightHeight": 0,
+      "playerSpeed": -9999,
+      "obstaclesSpeed": [
+        -9999,
+        -9999
+      ]
+    },
+    {
+      "id": 71,
+      "leftHeight": 0,
+      "rightHeight": 0,
+      "playerSpeed": -9999,
+      "obstaclesSpeed": [
+        -9999
+      ]
+    },
+    {
+      "id": 72,
+      "leftHeight": 0,
+      "rightHeight": 0,
+      "playerSpeed": -9999,
+      "obstaclesSpeed": [
+        -9999,
+        -9999
+      ]
+    },
+    {
+      "id": 73,
+      "leftHeight": 0,
+      "rightHeight": 0,
+      "playerSpeed": -9999,
+      "obstaclesSpeed": [
+        -9999,
+        -9999
+      ]
+    },
+    {
+      "id": 74,
+      "leftHeight": 0,
+      "rightHeight": 0,
+      "playerSpeed": -9999,
+      "obstaclesSpeed": [
+        -9999,
+        -9999
+      ]
+    },
+    {
+      "id": 75,
+      "leftHeight": 0,
+      "rightHeight": 0,
+      "playerSpeed": -9999,
+      "obstaclesSpeed": [
+        -9999,
+        -9999,
+        -9999,
+        -9999,
+        -9999
+      ]
+    },
+    {
+      "id": 76,
+      "leftHeight": 0,
+      "rightHeight": 0,
+      "playerSpeed": -9999,
+      "obstaclesSpeed": [
+        -9999,
+        -9999,
+        -9999,
+        -9999,
+        -9999
+      ]
     }
   ],
   "common": {
     "leftHeight": 0,
     "rightHeight": 0,
     "playerSpeed": 3,
-    "obstacleSpeed": [2,2,2,2,2],
+    "obstacleSpeed": [2,2,2,2,2,2,2,2,2,2],
     "ch1" : "tBYHGYSVaPG4tZXaBaY2bQ==",
     "gsk" : "aqINtUTFUo+zZSWHVzwm0Q==",
     "gsl": "1xTKl7l02mAAgJAKvAXCtA==",
     "gslv": "0DUjVF1wOLv2HM8Jpac8cQ==",
-    "sta": "rIXfmj7eTuDCLHytWyUnow==",
+    "sta": "EAeJnV6teOAzGktGOA6Bqw==",
     "gcn": "aqINtUTFUo+zZSWHVzwm0Q=="
   }
 }
