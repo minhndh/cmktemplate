@@ -386,42 +386,98 @@
         "name": "Level 52",
         "backgroundHeight": 0.7,
         "levels": [
-          60
+          55
         ]
       },
       {
         "name": "Level 53",
         "backgroundHeight": 0.7,
         "levels": [
-          61
+          60
         ]
       },
       {
         "name": "Level 54",
         "backgroundHeight": 0.7,
         "levels": [
-          62
+          61
         ]
       },
       {
         "name": "Level 55",
         "backgroundHeight": 0.7,
         "levels": [
-          63
+          62
         ]
       },
       {
         "name": "Level 56",
         "backgroundHeight": 0.7,
         "levels": [
-          64
+          63
         ]
       },
       {
         "name": "Level 57",
         "backgroundHeight": 0.7,
         "levels": [
+          64
+        ]
+      },
+      {
+        "name": "Level 58",
+        "backgroundHeight": 0.7,
+        "levels": [
           65
+        ]
+      },
+      {
+        "name": "Level 59",
+        "backgroundHeight": 0.7,
+        "levels": [
+          70
+        ]
+      },
+      {
+        "name": "Level 60",
+        "backgroundHeight": 0.7,
+        "levels": [
+          71
+        ]
+      },
+      {
+        "name": "Level 61",
+        "backgroundHeight": 0.7,
+        "levels": [
+          72
+        ]
+      },
+      {
+        "name": "Level 62",
+        "backgroundHeight": 0.7,
+        "levels": [
+          73
+        ]
+      },
+      {
+        "name": "Level 63",
+        "backgroundHeight": 0.7,
+        "levels": [
+          74
+        ]
+      },
+      {
+        "name": "Level 64",
+        "backgroundHeight": 0.7,
+        "levels": [
+          75
+        ]
+      },
+      {
+        "name": "Level 65",
+        "backgroundHeight": 0.7,
+        "levels": [
+          76
         ]
       }
     ]
