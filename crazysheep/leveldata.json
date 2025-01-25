@@ -223,7 +223,7 @@
     {
       "id": 40,
       "leftHeight": 0,
-      "rightHeight": -0.65,
+      "rightHeight": -0.6,
       "playerSpeed": 1,
       "obstaclesSpeed": [
         -9999,
@@ -401,6 +401,7 @@
       "playerSpeed": 12,
       "obstaclesSpeed": [
         2,
+        2,
         4
       ]
     },
@@ -410,6 +411,7 @@
       "rightHeight": 0,
       "playerSpeed": 15,
       "obstaclesSpeed": [
+        2,
         2,
         2,
         2
