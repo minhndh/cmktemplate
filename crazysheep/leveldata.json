@@ -223,8 +223,8 @@
     {
       "id": 40,
       "leftHeight": 0,
-      "rightHeight": 0,
-      "playerSpeed": -9999,
+      "rightHeight": -0.6,
+      "playerSpeed": 1,
       "obstaclesSpeed": [
         -9999,
         -9999,
@@ -254,7 +254,7 @@
     {
       "id": 43,
       "leftHeight": 0,
-      "rightHeight": 0,
+      "rightHeight": -0.6,
       "playerSpeed": -9999,
       "obstaclesSpeed": [
         -9999
@@ -303,7 +303,7 @@
     {
       "id": 52,
       "leftHeight": 0,
-      "rightHeight": -0.65,
+      "rightHeight": -0.6,
       "playerSpeed": 1,
       "obstaclesSpeed": [
         3,
@@ -320,10 +320,10 @@
       "rightHeight": -0.6,
       "playerSpeed": 1,
       "obstaclesSpeed": [
-        -9999,
-        -9999,
-        -9999,
-        -9999
+        3,
+        3,
+        4,
+        4
       ]
     },
     {
