@@ -363,14 +363,14 @@
       },
       {
         "name": "Level 49",
-        "backgroundHeight": 0.8,
+        "backgroundHeight": 0.1,
         "levels": [
           52
         ]
       },
       {
         "name": "Level 50",
-        "backgroundHeight": 0.9,
+        "backgroundHeight": 0.1,
         "levels": [
           53
         ]
@@ -398,7 +398,7 @@
       },
       {
         "name": "Level 54",
-        "backgroundHeight": 0.3,
+        "backgroundHeight": 0.1,
         "levels": [
           61
         ]
