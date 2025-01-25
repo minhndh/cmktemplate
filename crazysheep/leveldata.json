@@ -400,7 +400,7 @@
       "rightHeight": 0,
       "playerSpeed": 4,
       "obstaclesSpeed": [
-        -9999,
+        4,
         -9999
       ]
     },
